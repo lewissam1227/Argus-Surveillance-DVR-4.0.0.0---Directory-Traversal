@@ -5,5 +5,5 @@ This is a script to automate https://www.exploit-db.com/exploits/45296 Argus-Sur
 
 Example: Argus.py 192.168.1.1 /Windows/system.ini
 
-![image](https://github.com/lewissam1227/Argus-Surveillance-DVR-4.0.0.0---Directory-Traversal/assets/68430299/65d2aa9e-6797-4797-94ec-9f9f3765ee15)
 
+![image](https://github.com/lewissam1227/Argus-Surveillance-DVR-4.0.0.0---Directory-Traversal/assets/68430299/d08ab86b-21a5-47e8-bd86-e082b9bd063a)
